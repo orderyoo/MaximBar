@@ -18,7 +18,7 @@
 
 ## Использование
 Для работы с приложением необходимо зарегистрироваться в системе 
-![image](https://github.com/orderyoo/maximbar/assets/122743400/c00a649c-21fc-4380-8003-1731467b13ee) {width: 50px;}
+![image](https://github.com/orderyoo/maximbar/assets/122743400/c00a649c-21fc-4380-8003-1731467b13ee=200x200) 
 
 
 После входа будет отображён главный экран:
