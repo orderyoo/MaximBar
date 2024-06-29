@@ -18,23 +18,27 @@
 
 ## Использование
 Для работы с приложением необходимо зарегистрироваться в системе 
-![image](https://github.com/orderyoo/maximbar/assets/122743400/c00a649c-21fc-4380-8003-1731467b13ee) 
 
+<img src="https://github.com/orderyoo/maximbar/assets/122743400/c00a649c-21fc-4380-8003-1731467b13ee" width="200" />
 
 После входа будет отображён главный экран:
-![image](https://github.com/orderyoo/maximbar/assets/122743400/ca53c678-f629-4889-ba85-04838aa669c8)
+
+<img src="https://github.com/orderyoo/maximbar/assets/122743400/ca53c678-f629-4889-ba85-04838aa669c8" width="200" />
 
 
 Тут можно задать сортировку:
-![image](https://github.com/orderyoo/maximbar/assets/122743400/5810cefa-0526-46e3-be09-9eb76badefd4)
+
+<img src="https://github.com/orderyoo/maximbar/assets/122743400/5810cefa-0526-46e3-be09-9eb76badefd4" width="200" />
 
 
 Выбрав стол нажатием открывается экран заказа стола
-![image](https://github.com/orderyoo/maximbar/assets/122743400/d69a91ab-9a6f-4d52-b601-cc5be4e8ab91)
+
+<img src="https://github.com/orderyoo/maximbar/assets/122743400/d69a91ab-9a6f-4d52-b601-cc5be4e8ab91" width="200" />
 
 
 Тут можно добавить продукты в корзину
-![image](https://github.com/orderyoo/maximbar/assets/122743400/e7e3d0ec-daf4-491f-93e1-2c15da38d8ed)
+
+<img src="https://github.com/orderyoo/maximbar/assets/122743400/e7e3d0ec-daf4-491f-93e1-2c15da38d8ed" width="200" />
 
 ## Разработка
 ### Тестирование
@@ -43,7 +47,8 @@
 ### Итеграционное тестирование 
 
 Граф программы:
-![image](https://github.com/orderyoo/maximbar/assets/122743400/f3d91136-9b98-4b7a-8195-41c0a039e8ee)
+
+<img src="https://github.com/orderyoo/maximbar/assets/122743400/f3d91136-9b98-4b7a-8195-41c0a039e8ee" width="200" />
 
 Тестовые пути:
 -T1:	 1-4-7;
@@ -78,6 +83,53 @@
 -T30:	 1-3-4-8-5-9-10-9-6-7;
 
 ### Тест-кейсы
+
+Таблица 1 – Тест-кейс регистрации
+
+![image](https://github.com/orderyoo/maximbar/assets/122743400/e06d4783-07fe-4666-84e8-24ea2f988527)
+
+Таблица 2 – Тест-кейс авторизация 
+
+![image](https://github.com/orderyoo/maximbar/assets/122743400/6242695e-35c4-42c0-bdbc-19b217831b05)
+
+Таблица 3 – Тест-кейс выбора просматриваемых столов
+
+![image](https://github.com/orderyoo/maximbar/assets/122743400/7da1c3b4-30df-40d7-9787-8edf7fb13f1d)
+
+Таблица 4 – Тест-кейс фильтрации столов
+
+![image](https://github.com/orderyoo/maximbar/assets/122743400/7f700648-8627-49bb-a1ce-e15d87e288ed)
+
+Таблица 5 – Тест-кейс добавления продукта в корзину
+
+![image](https://github.com/orderyoo/maximbar/assets/122743400/a928c2da-c5c3-4f78-bf35-6f522c49cbf2)
+
+Таблица 6 – Тест-кейс удаления продукта из корзины
+
+![image](https://github.com/orderyoo/maximbar/assets/122743400/2c4f9b0f-4cb2-414a-bac6-deb5c44ed435)
+
+Таблица 7 – Тест-кейс заказа
+
+![image](https://github.com/orderyoo/maximbar/assets/122743400/18c4ee26-94bc-4452-812c-301bbff25aa0)
+
+## Contributing
+Сообщения о багах и ошибках присылать на почту: markovmaks895@gmail.com
+
+## FAQ 
+### Что у вас есть в баре?
+- Сплошные раритеты по доступным ценам!
+### Зачем вы разработали этот проект?
+- меня забайтил Артём
+
+  ## Команда проекта
+- [Марков Максим](https://t.me/order_yo) — android разработчик, страдалец и мученник
+- [Дарья Полуэктова](https://t.me/Sychugun) — ещё один android разработчик, страдалец и мученник
+- [Артемий Доброхотов](https://t.me/ArtikDemonik) — серверный лазутчик
+
+## Источники 
+
+https://developer.android.com/
+https://open.ai/chat.gpt
 
 
 
