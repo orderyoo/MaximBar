@@ -17,17 +17,21 @@
 - [Jetpack Compose](https://www.jetbrains.com/ru-ru/lp/compose-multiplatform/)
 
 ## Использование
-Для работы с приложением необходимо зарегистрироваться в системе
-![image](https://github.com/orderyoo/maximbar/assets/122743400/c00a649c-21fc-4380-8003-1731467b13ee)
+Для работы с приложением необходимо зарегистрироваться в системе 
+![image](https://github.com/orderyoo/maximbar/assets/122743400/c00a649c-21fc-4380-8003-1731467b13ee) {width: 50px;}
+
 
 После входа будет отображён главный экран:
 ![image](https://github.com/orderyoo/maximbar/assets/122743400/ca53c678-f629-4889-ba85-04838aa669c8)
 
+
 Тут можно задать сортировку:
 ![image](https://github.com/orderyoo/maximbar/assets/122743400/5810cefa-0526-46e3-be09-9eb76badefd4)
 
+
 Выбрав стол нажатием открывается экран заказа стола
 ![image](https://github.com/orderyoo/maximbar/assets/122743400/d69a91ab-9a6f-4d52-b601-cc5be4e8ab91)
+
 
 Тут можно добавить продукты в корзину
 ![image](https://github.com/orderyoo/maximbar/assets/122743400/e7e3d0ec-daf4-491f-93e1-2c15da38d8ed)
